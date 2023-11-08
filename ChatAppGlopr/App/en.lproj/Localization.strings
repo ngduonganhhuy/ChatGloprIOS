@@ -1,0 +1,11 @@
+/* 
+  Localization.strings
+  ChatAppGlopr
+
+  Created by Huy Nguyễn Dương Anh on 06/11/2023.
+  
+*/
+//MARK: Welcome
+"welcome.text" = "Expand your social circle to enhance the enjoyment in your life.";
+"welcome.register" = "Register";
+"welcome.alreadyHaveAccount" = "I've got an account";

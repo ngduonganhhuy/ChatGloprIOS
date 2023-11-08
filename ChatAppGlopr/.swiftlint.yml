@@ -1,0 +1,23 @@
+included:
+ - ChatAppGlopr
+ 
+disabled_rules:
+ - identifier_name
+ - switch_case_alignment
+ - line_length
+ - nesting
+ - large_tuple
+ - unused_closure_parameter
+ - trailing_whitespace
+ - type_name
+ - xctfail_message
+ - blanket_disable_command
+
+identifier_name:
+ excluded:
+  - Carthage
+  - Pods
+  - Modules
+
+excluded:
+ - ChatAppGloprTests
